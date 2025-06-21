@@ -13,7 +13,7 @@
     "experimentalDecorators": true,
     "strictPropertyInitialization":false,
     "resolveJsonModule": true,
-    "rootDir": "src"
+    // "rootDir": "src"
   },
   "include": ["./*.js", "src/**/*.ts", "tests/**/*.ts"]
 }
